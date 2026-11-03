@@ -7,16 +7,18 @@ This repository contains chapter-wise programs covering fundamental programming 
 
 ---
 
-## Course Information
 
-- **Course:** Object Oriented Programming Using C++
-- **Programming Language:** C++
-- **Branch:** Electronics and Communication Engineering
-- **Semester:** 7th Semester
-- **Academic Year:** 2026-2027
-- **Student Name:** Ravi Sanju Honakadabi
-- **USN:** 01FE23BEC358
-- **Institution:** KLE Technological University
+## Student Information
+
+| Field | Details |
+|---|---|
+| Name | Ravi Sanju Honakadabi |
+| USN | [01FE23BEC358|
+| Roll Number |657 |
+| Division | [Enter Your Division] |
+| Semester | 7th Semester |
+| Branch | Electronics and Communication Engineering |
+| University | KLE Technological University] |
 
 ---
 
