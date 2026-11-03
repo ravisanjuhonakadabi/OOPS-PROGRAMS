@@ -12,12 +12,12 @@ The purpose of this repository is to maintain a systematic record of laboratory 
 | Field | Details |
 |---|---|
 | Name | Ravi Sanju Honakadabi |
-| USN | [Enter Your USN] |
-| Roll Number | [Enter Your Roll Number] |
-| Division | [Enter Your Division] |
+| USN | [01FE23BEC358] |
+| Roll Number | [657] |
+| Division | [F] |
 | Semester | 7th Semester |
 | Branch | Electronics and Communication Engineering |
-| University | [Enter Your University] |
+| University | [KLE Technological University] |
 
 ---
 
