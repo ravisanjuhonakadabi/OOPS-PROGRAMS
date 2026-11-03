@@ -13,9 +13,9 @@ This repository contains chapter-wise programs covering fundamental programming 
 | Field | Details |
 |---|---|
 | Name | Ravi Sanju Honakadabi |
-| USN | [01FE23BEC358|
+| USN | 01FE23BEC358|
 | Roll Number |657 |
-| Division | [Enter Your Division] |
+| Division |F|
 | Semester | 7th Semester |
 | Branch | Electronics and Communication Engineering |
 | University | KLE Technological University] |
